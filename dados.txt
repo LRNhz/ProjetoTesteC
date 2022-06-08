@@ -1,0 +1,2 @@
+Valor da Soma = 14
+Valor do Quadrado = 16
